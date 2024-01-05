@@ -1,3 +1,6 @@
+## Deploy to Google Cloud Run
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 # Next.js v14 E-commerce Starter Kit 💻
 
 Ready to use [Next.js](https://nextjs.org) v14 (TypeScript) E-commerce Starter Kit
