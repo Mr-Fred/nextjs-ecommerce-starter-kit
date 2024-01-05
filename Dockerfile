@@ -8,5 +8,5 @@ ENV NEXT_PUBLIC_APP_URL=127.0.0.1
 
 RUN npm install
 RUN npm run build
-EXPOSE 4000
+EXPOSE 3000
 CMD ["npm", "run","start"]
