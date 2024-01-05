@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:lts-alpine as build-stage
 RUN mkdir /app
 COPY package.json /app/
 WORKDIR /app
