@@ -12,10 +12,10 @@ export default function Footer() {
           </div>
           <div className="col-md-6">
             <ul className="list-unstyled d-flex justify-content-between">
-              <li><Link href="/">Home</Link></li>
-              <li><Link href="/collections/politics">Politics</Link></li>
-              <li><Link href="/collections/fictions">Fiction</Link></li>
-              <li><Link href="/terms-and-conditions">Terms and Conditions</Link></li>
+              <li><Link href="/">Store</Link></li>
+              <li><Link href="/collections/fiction-books">Fiction</Link></li>
+              <li><Link href="/collections/non-fiction-books">Non Fiction</Link></li>
+              {/* <li><Link href="/terms-and-conditions">Terms and Conditions</Link></li> */}
               <li><Link href="/privacy">Privacy</Link></li>
             </ul>
           </div>

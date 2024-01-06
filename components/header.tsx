@@ -12,7 +12,7 @@ export default function Header() {
 				<AuthBar />
 				<div className={styles['logo-container']}>
 					<Link href={'/'} className={styles.logo}>
-						<Image alt={'book haven logo'} width={100} height={100} src={logo.src} />
+						<Image alt={'book haven logo'} width={250} height={250} src={logo.src} />
 					</Link>
 				</div>
 			</header>
